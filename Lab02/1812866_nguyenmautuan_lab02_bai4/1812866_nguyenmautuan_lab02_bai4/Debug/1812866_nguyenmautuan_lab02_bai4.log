@@ -1,0 +1,4 @@
+﻿  program.cpp
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai4\1812866_nguyenmautuan_lab02_bai4\thuvien.h(178,9): warning C4101:  'j': unreferenced local variable
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai4\1812866_nguyenmautuan_lab02_bai4\thuvien.h(70): warning C4715:  'taodanhsachSV': not all control paths return a value
+  1812866_nguyenmautuan_lab02_bai4.vcxproj -> C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai4\Debug\1812866_nguyenmautuan_lab02_bai4.exe

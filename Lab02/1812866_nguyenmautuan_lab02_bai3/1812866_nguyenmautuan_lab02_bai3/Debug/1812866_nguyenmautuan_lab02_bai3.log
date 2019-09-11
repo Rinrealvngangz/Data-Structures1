@@ -1,0 +1,7 @@
+﻿  program.cpp
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\1812866_nguyenmautuan_lab02_bai3\thuvien.h(218,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\1812866_nguyenmautuan_lab02_bai3\thuvien.h(234,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\1812866_nguyenmautuan_lab02_bai3\thuvien.h(265,42): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\1812866_nguyenmautuan_lab02_bai3\thuvien.h(298,6): warning C4101:  'kq': unreferenced local variable
+C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\1812866_nguyenmautuan_lab02_bai3\thuvien.h(70): warning C4715:  'taodanhsachSV': not all control paths return a value
+  1812866_nguyenmautuan_lab02_bai3.vcxproj -> C:\Users\Tuan\source\repos\1812866_nguyenmautuan_lab02_bai3\Debug\1812866_nguyenmautuan_lab02_bai3.exe
