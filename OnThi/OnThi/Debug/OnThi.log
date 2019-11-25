@@ -1,0 +1,13 @@
+﻿  program.cpp
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(99,7): warning C4101:  'ten': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(98,7): warning C4101:  'HoLot': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(100,7): warning C4101:  'ngay': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(101,7): warning C4101:  'Diachi': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(102,9): warning C4101:  'luong': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(100,20): warning C4101:  'nam': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(97,7): warning C4101:  'Ho': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(100,13): warning C4101:  'thang': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(96,7): warning C4101:  'maNV': unreferenced local variable
+C:\Users\Tuan\source\repos\OnThi\OnThi\thuvien.h(465,13): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tuan\source\repos\OnThi\OnThi\menu.h(39,6): warning C4101:  'kq2': unreferenced local variable
+  OnThi.vcxproj -> C:\Users\Tuan\source\repos\OnThi\Debug\OnThi.exe
